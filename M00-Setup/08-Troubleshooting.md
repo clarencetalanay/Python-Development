@@ -1,4 +1,4 @@
-# 07 — Troubleshooting
+# 08 — Troubleshooting
 ### Python Development | MCC BSIT 2526
 
 [Back to Setup Overview](./Setup.md)
